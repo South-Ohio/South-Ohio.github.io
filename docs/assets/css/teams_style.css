@@ -73,7 +73,7 @@
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    background: #cc1616;
+    background: #5CCA87;
   }
   
   .navbar .dropdown ul {
@@ -152,7 +152,7 @@
   }
   
   .mobile-nav-toggle.bi-x {
-    color: #cc1616;
+    color: #5CCA87;
   }
   
   @media (max-width: 991px) {
@@ -206,7 +206,7 @@
   .navbar-mobile a:hover,
   .navbar-mobile .active,
   .navbar-mobile li:hover>a {
-    color: #cc1616;
+    color: #5CCA87;
     background: none;
   }
   
@@ -242,7 +242,7 @@
   .navbar-mobile .dropdown ul a:hover,
   .navbar-mobile .dropdown ul .active:hover,
   .navbar-mobile .dropdown ul li:hover>a {
-    color: #cc1616;
+    color: #5CCA87;
   }
   
   .navbar-mobile .dropdown>.dropdown-active {
@@ -322,7 +322,7 @@
   .about .content ul i {
     font-size: 20px;
     padding-right: 4px;
-    color: #cc1616;
+    color: #5CCA87;
   }
   
   .about .content p:last-child {
@@ -345,7 +345,7 @@
     margin: 0 auto;
     width: 64px;
     height: 64px;
-    background: #cc1616;
+    background: #5CCA87;
     transition: all 0.3s ease-out 0s;
     display: flex;
     align-items: center;
@@ -388,8 +388,8 @@
   }
   
   .services .icon-box:hover {
-    background: #cc1616;
-    border-color: #cc1616;
+    background: #5CCA87;
+    border-color: #5CCA87;
     padding: 70px 20px 90px 20px;
   }
   
@@ -398,11 +398,11 @@
   }
   
   .services .icon-box:hover .icon i {
-    color: #cc1616;
+    color: #5CCA87;
   }
   
   .services .icon-box:hover .icon::before {
-    background: #e82d2d;
+    background: #191919;
   }
   
   .services .icon-box:hover h4 a,
